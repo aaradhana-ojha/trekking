@@ -1,0 +1,22 @@
+<svg width="1170" height="407" viewBox="0 0 1170 407" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.2" d="M1170 20C1170 8.9543 1161.05 0 1150 0H129C57.7553 0 0 57.7553 0 129V387C0 398.046 8.95431 407 20 407H1150C1161.05 407 1170 398.046 1170 387V20Z" fill="#DFD7F9"/>
+<g opacity="0.1">
+<mask id="mask0_2021_2529" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="906" y="0" width="264" height="352">
+<path d="M906.5 0.5H1146C1158.98 0.5 1169.5 11.0213 1169.5 24V351.022H956C928.662 351.022 906.5 328.86 906.5 301.522V0.5Z" fill="url(#paint0_linear_2021_2529)" stroke="#6246E5"/>
+</mask>
+<g mask="url(#mask0_2021_2529)">
+<circle cx="1145.02" cy="178.32" r="91.8033" stroke="#6246E5"/>
+<circle cx="1137.73" cy="168.604" r="102.734" stroke="#6246E5"/>
+<circle cx="1131.66" cy="160.709" r="112.45" stroke="#6246E5"/>
+<circle cx="1125.58" cy="149.171" r="120.952" stroke="#6246E5"/>
+<circle cx="1119.81" cy="137.937" r="129.15" stroke="#6246E5"/>
+<circle cx="1110.1" cy="125.185" r="141.902" stroke="#6246E5"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_2021_2529" x1="1093.24" y1="9.86234" x2="911.232" y2="354.287" gradientUnits="userSpaceOnUse">
+<stop stop-color="#747DEF"/>
+<stop offset="1" stop-color="#5E3BE1"/>
+</linearGradient>
+</defs>
+</svg>
